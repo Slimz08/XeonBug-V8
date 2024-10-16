@@ -11,7 +11,7 @@ const chalk = require('chalk')
 
 //contact details
 global.ownernomer = "2609873762953"
-global.ownername = "milo 🫠"
+global.ownername = "𝛭𝛯𝐿𝐿𝛩"
 global.ytname = "YT: GlobalTechInfo"
 global.socialm = "GitHub: GlobalTechInfo"
 global.location = "Pakistan, Karachi, Karachi"
@@ -21,7 +21,7 @@ global.ownername = 'Qasim Ali' //owner name
 global.botname = 'XeonBug-V8' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
+global.packname = '𝛭𝛯𝐿𝐿𝛩'
 global.author = 'GlobalTech\n\nContact: +923444844060'
 
 //console view/theme
